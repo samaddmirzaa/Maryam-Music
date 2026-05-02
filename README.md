@@ -6,7 +6,7 @@
 
 ## 📌 Background
 
-Maryam Music is a streaming service (est. 1996) that has been experiencing higher-than-usual customer cancellations over the past few months. This project takes on the role of a Jr. Data Scientist tasked with using data science to investigate the issue and lay the groundwork for a predictive churn model.
+Maryam Music is a streaming service (est. 1996) that has been experiencing higher-than-usual customer cancellations over the past few months. This project takes on the role of a Data Scientist tasked with using data science to investigate the issue and lay the groundwork for a predictive churn model.
 
 ---
 
