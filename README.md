@@ -1,4 +1,4 @@
-# 🎵 Maryam Music — Customer Churn Analysis
+# 🎵 Maryam Music
 
 > Exploratory data analysis and feature engineering to understand and predict customer churn for a music streaming service.
 
